@@ -3,6 +3,7 @@ import './App.scss'
 import Header from './components/Header/Header'
 import Hero from './components/Hero/Hero'
 import Catalog from './components/Catalog/Catalog'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
    <Header/>
    <Hero/>
    <Catalog/>
+   <Footer/>
    
    </>
   )
